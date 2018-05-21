@@ -15,12 +15,12 @@ Plus d'informations sur [francx.org](http://www.francx.org) Visitez notre fil AN
 <tr><td>Algo</td><td>Quark</td></tr>
 <tr><td>Temps par block</td><td>60 Seconds</td></tr>
 <tr><td>Recalibrage de la difficulté</td><td>Chaque Block</td></tr>
-<tr><td>Max Coin Fournis (PoW Phase)</td><td>X FRA</td></tr>
+<tr><td>Max Coin Fournis (PoW Phase)</td><td>X FRAX</td></tr>
 <tr><td>Max Coin Fournis (PoS Phase)</td><td>Infinite</td></tr>
-<tr><td>Préminage</td><td>X FRA*</td></tr>
+<tr><td>Préminage</td><td>X FRAX*</td></tr>
 </table>
 
-*X FRA preminés ont été brulés au Block [279917](http://www.presstab.pw/phpexplorer/FRANCX/block.php?blockhash=206d9cfe859798a0b0898ab00d7300be94de0f5469bb446cecb41c3e173a57e0)
+*X FRAX preminés ont été brulés au Block [279917](http://www.presstab.pw/phpexplorer/FRANCX/block.php?blockhash=206d9cfe859798a0b0898ab00d7300be94de0f5469bb446cecb41c3e173a57e0)
 
 ### Distribution des récompenses
 
