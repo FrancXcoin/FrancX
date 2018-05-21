@@ -8,7 +8,7 @@ FRANCX est une crypto-monnaie open source axée sur les transactions privées ra
 - Transactions rapides avec des garanties sans confirmation, nous l'appelons _SwiftX_.
 - Vote blockchain décentralisé utilisant la technologie Masternode pour former un DAO.  La blockchain distribuera des fonds mensuels de trésorerie basés sur des propositions réussies soumises par la communauté et votées par le DAO.
 
-Plus d'informations sur [frax.org](http://www.francx.org) Visitez notre fil ANN sur [BitcoinTalk](http://www.bitcointalk.org/index.php?topic=1262920)
+Plus d'informations sur [francx.org](http://www.francx.org) Visitez notre fil ANN sur [BitcoinTalk](http://www.bitcointalk.org/index.php?topic=1262920)
 
 ### Caractéristiques de la pièce
 <table>
